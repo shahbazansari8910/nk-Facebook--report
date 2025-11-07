@@ -39,7 +39,7 @@ slaw2 = '''
 		* * * * * * * * * * * * * * * * * * * * *
 		* [#]  welcome to facebook report tool  *
 		*                                       *
-		* [#]  created : nk editor              * 
+		* [#]  created : smoky here              * 
 		*                                       *
 		* [#] try to use it for ethical purpose *
 		* * * * * * * * * * * * * * * * * * * * *
